@@ -6,9 +6,9 @@ Complete Tutorial for TensorFlow 2.0. The entire course is devided into 5 module
 ### Module 2 : Introducing TensorFlow using Neural Networks
 1. Why TensorFlow ?
 2. What's new in TensorFlow 2.0 ?
-3. Structured Data Classification using TensorFlow
-4. Basic Image Classification using TensorFlow
-5. Text classification using TensorFlow
+3. Basic Image Classification using TensorFlow
+4. Text classification using TensorFlow
+5. Structured Data Classification using TensorFlow
 6. Regression using TensorFlow
 7. Overfitting and underfitting
 8. Save and restore models TensorFlow models
