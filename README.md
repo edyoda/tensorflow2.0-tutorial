@@ -13,10 +13,23 @@ Complete Tutorial for TensorFlow 2.0. The entire course is devided into 5 module
 7. Overfitting and underfitting
 8. Save and restore models TensorFlow models
 
-### Module 3 : Advanced TensorFlow Concepts
+### Module 3 : Dealing with Images using TensorFlow
 
-### Module 4 : More TensorFlow for Production
+### Module 4 : Dealing with Text using TensorFlow
 
-### Module 5 : Projects for understanding development to deployments
+### Module 5 : TensorFlow Customization concepts 
+
+### Module 6 : Advanced Concepts for Text & Sequences, Image Generation
+
+
+### Module 7 : More TensorFlow for Production
+1. Load & Prepare Data
+2. Distributed Training
+3. Keras usage
+4. Accelarators 
+5. Data Input Pipelines
+6. Serialization
+
+### Module 8 : Projects for understanding development to deployments
 
 
