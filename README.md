@@ -8,7 +8,7 @@ Complete Tutorial for TensorFlow 2.0. The entire course is devided into 5 module
 2. What's new in TensorFlow 2.0 ?
 3. Basic Image Classification using TensorFlow
 4. Text classification using TensorFlow
-5. Structured Data Classification using TensorFlow
+5. Structured Data Pipeline & Classification using TensorFlow
 6. Regression using TensorFlow
 7. Overfitting and underfitting
 8. Save and restore models TensorFlow models
